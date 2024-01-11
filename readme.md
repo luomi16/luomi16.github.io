@@ -1,8 +1,8 @@
-# Data Scientist
+# Software Development Engineer
 
 ## Education
 
-- M.S., Computer Science | The University of Delaware (_Feb 2023 - Dec 2024_)
+- M.S., Computer Science | University of Delaware (Feb 2023 - Dec 2024)
 
 ## Project
 
@@ -21,4 +21,4 @@
 - Built robust CRUD APIs and web services using Laravel, utilized Eloquent ORM for database abstraction, implemented MVC architecture and routing using Symfony components to organize request handling and responses
 - Built out frontend templates using Pug templating engine
 
-![udlogo for test](/assets/img/ud-logo.png)
+<!-- ![udlogo for test](/assets/img/ud-logo.png) -->

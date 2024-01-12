@@ -2,23 +2,33 @@
 
 ## Education
 
-- M.S., Computer Science | University of Delaware (Feb 2023 - Dec 2024)
+- University of Delaware, Newark, DE M.S. in Computer Science, 3.8, Feb 2023 - May 2024
+- Hubei University of Economic, Wuhan, CN B.S. in Internet of Things, Sep 2018 - July 2022
 
 ## Project
 
-**Full Stack Travel Booking Website (MongoDB, React, Express, NodeJS)**
+**Full Stack Travel Booking Website (NodeJS, Express, MongoDB)**
 
-- Developed end-to-end travel booking web application using Node.js and Express for the server side, and implemented version control with Git.
-- Designed REST API with CRUD scheme, implemented React for the frontend to create a user-friendly and responsive interface, deployed the application on Heroku to make it accessible for users, and run the backend interface testing on Postman
-- Implemented JWT-based login system and leveraged Nodemailer to send registration and account confirmation emails to ensure secure authentication and user access control
-- Integrated MongoDB and Mongoose to efficiently managed data storage and object modeling of tours, users, and booking data
-- Engineered Mapbox API integration to enable dynamic display of tour locations and boost discoverability and implemented Stripe API for streamlined booking and payments resulting in smooth checkout flows
+- Developed a comprehensive travel booking web application from scratch, utilizing Node.js and Express for server-side operations, with version control using Git, and deployed the application on Heroku for user accessibility.
+- Designed and implemented a REST API following the CRUD approach, used Pug for creating a responsive user interface, and conducted backend interface testing through Postman, ensuring a seamless user experience.
+- Enhanced the application's functionality by integrating a JWT-based login system with Nodemailer for secure authentication, MongoDB and Mongoose for efficient data management, Mapbox API for interactive tour location displays, and Stripe API for streamlined booking and payment processes.
 
-**Mall System with 3D Fitting Room (PHP, Pug, Three.js, Laravel, Eloquent ORM, Symfony)**
+**Real Estate Website Development (Django, Bootstrap, and PostgreSQL)**
 
-- Led a 4-person team to develop an innovative virtual fitting room and mall management system. The project was awarded "Best Project" across the university for its technical excellence and impactful implementation, and received a prestigious provincial-level award in Chinese Collegiate Computing Competition.
-- Integrated 3D scanner to capture data on the size and shape of the user's body, designed a virtual model using the 3D modeling software Blender and implemented appropriate materials and textures to the virtual model to simulate the look and feel of the clothing using Three.js.
-- Built robust CRUD APIs and web services using Laravel, utilized Eloquent ORM for database abstraction, implemented MVC architecture and routing using Symfony components to organize request handling and responses
-- Built out frontend templates using Pug templating engine
+- Engineered a comprehensive real estate platform using Django, featuring advanced administrative capabilities for effectively managing property listings, realtors, and client interactions.
+- Showcased full-stack development expertise through the integration of Postgres databases, strategic schema planning, efficient Django model migrations and administration, complemented by Bootstrap for a responsive user interface.
+- Expertly deployed the application on Digital Ocean using Gunicorn and Nginx, ensuring robust search functionality and secure user authentication for an optimal user experience.
+
+**Mall System with 3D Fitting Room (PHP, Bootstrap, Three.js, MySQL)**
+
+- Led the development of an innovative virtual fitting room and mall management system with a 4-person team, earning both university-level "Best Project" accolades and a provincial-level award in the Chinese Collegiate Computing Competition for its outstanding technological innovation and impact.
+- Engineered a 3D scanning system to precisely capture user body dimensions, crafted detailed virtual models using Blender, and utilized Three.js for rendering realistic clothing textures and materials in the simulation.
+- Constructed the system’s backend using native PHP and MySQL for robust database management, implemented an MVC architectural framework for efficient request handling, and designed a user-friendly frontend interface using responsive Bootstrap templates.
+
+**Real-Time Chat Application Development (NodeJS, ReactJS)**
+
+- Developed a full-stack, real-time chat application using NodeJS, ReactJS, and ChatEngine.io, featuring user authentication, real-time messaging, and media sharing capabilities.
+- Integrated ChatEngine.io for robust chat data management and utilized ReactJS for a dynamic user interface with pre-built UI components.
+- Successfully implemented a comprehensive chat solution, encompassing group chats, direct messaging, and read receipts, demonstrating seamless integration of diverse technologies.
 
 <!-- ![udlogo for test](/assets/img/ud-logo.png) -->

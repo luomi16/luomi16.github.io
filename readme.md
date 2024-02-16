@@ -9,6 +9,15 @@
 - University of Delaware, Newark, DE M.S. in Computer Science, 3.83, Feb 2023 - Dec 2024
 - Hubei University of Economic, Wuhan, CN B.S. in Internet of Things, Sep 2018 - July 2022
 
+# Experience
+
+SciQuel Feb 2024 - Present
+Software developer Intern
+(remote) 125 Western Ave. Allston, MA 02163
+
+- Helped maintained the Sciquel database using MongoDB, which stores articles and user data.
+- Developed backend APIs such as password retrieval using Node.js and designed Pages and components for the mobile app using Figma and React-Native within a collaborative team environment.
+
 ## Project
 
 **Full Stack Travel Booking Website (NodeJS, Express, MongoDB)**[https://github.com/luomi16/Natours](https://github.com/luomi16/Natours)
